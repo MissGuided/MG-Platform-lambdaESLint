@@ -19,12 +19,12 @@ $ npm install eslint-plugin-mg-lambda --save-dev
 
 ## Usage
 
-Add `mg-lambda-eslint` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `mg-lambda-eslint` to the extends section of your `.eslintrc` configuration file.
 
 ```json
 {
-    "plugins": [
-        "mg-lambda-eslint"
-    ]
+  "extends": [
+    "plugin:mg-lambda/recommended"
+  ]
 }
 ```
