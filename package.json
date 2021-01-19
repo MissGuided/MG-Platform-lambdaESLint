@@ -1,6 +1,6 @@
 {
   "name": "@missguided/eslint-plugin-mg-lambda",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint plugin for Missguided serverless functions.",
   "keywords": [
     "eslint",
