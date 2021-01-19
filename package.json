@@ -8,7 +8,6 @@
     "eslint-plugin"
   ],
   "author": "Missguided",
-  "private": true,
   "main": "lib/index.js",
   "scripts": {},
   "dependencies": {
